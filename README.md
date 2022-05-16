@@ -1,4 +1,4 @@
-# PROJECT - Hostel Security system solution
+# PROJECT - Security System
 
 This is a solution to the [Hostel Security system solution](https://www.teambiee.netlify.app/).
 Hostel Security system designed using the firebase auth and the webauth api.
@@ -34,8 +34,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./public/homepage.PNG)
+-basic viewpage
 ![](./public/otp%20sent.PNG)
+-alert message
 ![](./public/success.PNG)
+-success message
 
 ### Links
 
